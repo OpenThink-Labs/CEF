@@ -1,0 +1,4 @@
+np_edu_festival_cef:
+    resource: "@NPEduFestivalCEFBundle/Resources/config/routing.yml"
+    prefix:   /
+

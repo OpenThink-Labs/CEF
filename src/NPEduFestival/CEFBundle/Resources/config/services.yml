@@ -1,0 +1,7 @@
+parameters:
+#    np_edu_festival_cef.example.class: NPEduFestival\CEFBundle\Example
+
+services:
+#    np_edu_festival_cef.example:
+#        class: %np_edu_festival_cef.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

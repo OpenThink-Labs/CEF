@@ -1,0 +1,9 @@
+
+
+.jumbotron
+    {
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 340px;
+        background-image: url('/images/merdeka.jpg')
+    }
