@@ -1,4 +1,4 @@
 CEF
 ===
 
-CEF - Cikereteg Education Festival, http://cef.negeripelangi.com/
+CEF - Ciderum Education Festival, http://cef.negeripelangi.com/
